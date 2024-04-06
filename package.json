@@ -1,0 +1,17 @@
+{
+  "name": "cli24tu-todos-application-typescript",
+  "version": "1.0.0",
+  "description": "Just completed my CLI todos application project! This simple yet powerful tool helps users manage their tasks efficiently right from the command line. Perfect for staying organized and boosting productivity!",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17"
+  }
+}
